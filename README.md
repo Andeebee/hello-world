@@ -1,2 +1,2 @@
 # hello-world
-First activity in learning how to use Github. 
+Andrea here, venturing into the world of GitHub. Learning something new everyday.
